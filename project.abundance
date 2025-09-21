@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "ESP32S3 module",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "b2917da8-2f04-4572-b725-9e4eab2c08b6",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
